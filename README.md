@@ -1,0 +1,2 @@
+# tari-skripsi
+GIS skripsi 
